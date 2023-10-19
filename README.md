@@ -1,6 +1,6 @@
 
 💫 About Me: <br>
-Hi!👋 My name is Valery 😉,<br>I am a software developer 🖥️ with a curious mind and creative spirit 🧠.<br>I currently have a technical diploma in software programming 🎓, <br>I'm a Front-End developer and I'm specialized in css, html, <br>reactjs, typescript, javascript and I also know how to work with<br>FIGMA design tool. <br>I am excited about what the future of technology has in store for us<br>and excited to continue growing as a programmer 💡. <br><br><br><br>
+Hello!👋 My name is Valery 😉, I'm 20 years old and I'm from Colombia. Also, I'm a frontend developer.🖥️ with a curious mind and creative spirit 🧠.<br>I currently have a technical diploma in software programming 🎓, <br>I'm a Front-End developer and I'm specialized in css, html, <br>reactjs, typescript, javascript and I also know how to work with<br>FIGMA design tool. <br>I am excited about what the future of technology has in store for us<br>and excited to continue growing as a programmer 💡. <br><br><br><br>
 
 
 ## 🌐 Socials:
